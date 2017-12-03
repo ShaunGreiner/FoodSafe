@@ -1,0 +1,38 @@
+[
+    {
+        "inspections":[
+            {
+                "score": 97,
+                "date" : "Oct 19th, 2017",
+                "type" : "Routine",
+                "owner" : "TIM ALLEN"
+            },
+            {
+                "score": 80,
+                "date" : "Oct 19th, 2017",
+                "type" : "Routine",
+                "owner" : "TIM ALLEN"
+            },
+            {
+                "score": 20,
+                "date" : "Oct 19th, 2017",
+                "type" : "Routine",
+                "owner" : "TIM ALLEN"
+            },
+            {
+                "score": 78,
+                "date" : "Oct 19th, 2017",
+                "type" : "Routine",
+                "owner" : "TIM ALLEN"
+            },
+        ]
+        'businessInfo': {
+            'address': '610 W. MAIN ST. ',
+            'city': 'PEORIA ',
+            'name': 'BASKET CASE PUB ',
+            'state': 'IL ',
+            'type': 'BAR/TAVERN ',
+            'zip': '61606 '
+        }
+    }
+]
